@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="9.3">
+<file name="/home/oem/IdeaProjectsUltimate/PortaOne/src/main/java/porta/one/calculator/AdditionalParametersCalculator.java">
+</file>
+<file name="/home/oem/IdeaProjectsUltimate/PortaOne/src/main/java/porta/one/calculator/BasicParametersCalculator.java">
+</file>
+<file name="/home/oem/IdeaProjectsUltimate/PortaOne/src/main/java/porta/one/calculator/Trend.java">
+</file>
+<file name="/home/oem/IdeaProjectsUltimate/PortaOne/src/main/java/porta/one/Main.java">
+</file>
+<file name="/home/oem/IdeaProjectsUltimate/PortaOne/src/main/java/porta/one/reader/ContentReader.java">
+</file>
+</checkstyle>
